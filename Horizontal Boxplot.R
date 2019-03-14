@@ -167,7 +167,7 @@ p2 <- ggplot(dat = NewData, mapping = aes(x=Patient.ID)) +
         panel.background = element_blank()) +
   
   #Add colour scheme
-  scale_fill_brewer(palette = "Reds")
+  scale_fill_brewer(palette = "Blues")
 
 
 ###############
