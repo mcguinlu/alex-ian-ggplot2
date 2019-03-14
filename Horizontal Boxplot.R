@@ -66,7 +66,7 @@ NewData$PatientIDTable <- seq(nrow(NewData),1,by=-1)
 # CREATE PLOT #
 ###############
 
-#Create plot
+#Define general ggplot
 p2 <- ggplot(dat = NewData, mapping = aes(x=Patient.ID)) + 
   
   #Create background rectangle for plot area
