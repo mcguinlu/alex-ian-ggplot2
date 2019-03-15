@@ -26,7 +26,7 @@ names(Data)[4] <- "Population"
 #Reformart Duration of treatment
 Data$Duration <- sub("^$", 0, Data$Duration) #Replace empty cells with 0
 Data$Duration <- sub("<1", 0.5, Data$Duration)
-Data$Duration <- as.numeric(Data$Duration) #Change to numeric datatype, as ggplot prefers this
+Data$Duration <- as.numeric(Data$Duration) #Change to numeric datatype
 
 # Reformat Progression Free Survival (PFS)
 Data$PFS <- sub("^$", NA, Data$PFS)
@@ -39,6 +39,7 @@ Data$OS <- sub("^$", NA, Data$OS)
 Data$OS <- sub("<1", 0.5, Data$OS)
 Data$OS <- sub("Not reported", NA, Data$OS)
 Data$OS <- as.numeric(Data$OS)
+
 
 #Create variables to position columns
 Data$labelpositionid <- rep(-12,times=nrow(Data))
@@ -117,14 +118,41 @@ p2 <- ggplot(dat = NewData, mapping = aes(x=Patient.ID)) +
              show.legend = FALSE) +
   
   #Create columns, positioned on the left of the plot area
-  annotate("text", x=NewData$Patient.ID, y=NewData$labelpositionstudy, label = NewData$Reference, size = textsizenormal) +
-  annotate("text", x=NewData$Patient.ID, y=NewData$labelpositionpopulation, label = NewData$Population, size = textsizenormal) +
-  annotate("text", x=NewData$Patient.ID, y=NewData$labelpositionid, label = NewData$PatientIDTable, size = textsizenormal) +
+  annotate("text", 
+           x=NewData$Patient.ID, 
+           y=NewData$labelpositionstudy, 
+           label = NewData$Reference, 
+           size = textsizenormal) +
+  annotate("text", 
+           x=NewData$Patient.ID, 
+           y=NewData$labelpositionpopulation, 
+           label = NewData$Population, 
+           size = textsizenormal) +
+  annotate("text", 
+           x=NewData$Patient.ID, 
+           y=NewData$labelpositionid, 
+           label = NewData$PatientIDTable, 
+           size = textsizenormal) +
   
-  # Column column headings, bolded
-  annotate("text", x=56, y=NewData$labelpositionid, label="Patient ID", size=textsizeheadings, fontface="bold") +
-  annotate("text", x=56, y=NewData$labelpositionstudy, label="Reference", size=textsizeheadings, fontface="bold") +
-  annotate("text", x=56, y=NewData$labelpositionpopulation, label="Population", size=textsizeheadings, fontface="bold") +
+  # Create column headings, bolded
+  annotate("text", 
+           x=56, 
+           y=NewData$labelpositionid, 
+           label="Patient ID", 
+           size=textsizeheadings, 
+           fontface="bold") +
+  annotate("text", 
+           x=56, 
+           y=NewData$labelpositionstudy, 
+           label="Reference", 
+           size=textsizeheadings, 
+           fontface="bold") +
+  annotate("text", 
+           x=56, 
+           y=NewData$labelpositionpopulation, 
+           label="Population", 
+           size=textsizeheadings, 
+           fontface="bold") +
   
   
   
@@ -156,7 +184,7 @@ p2 <- ggplot(dat = NewData, mapping = aes(x=Patient.ID)) +
   #Reduce space between the plot and axes
   scale_x_continuous(expand = c(0.01,0.01)) +
   
-  #Remove y-axis ticks and background (grey background of plot created using geom_rect above)
+  #Remove y-axis ticks and background 
   #ggplot plots layers over each other, so geom_rect must come first
   theme(axis.ticks.y = element_blank(),
         axis.text.y = element_blank(),
@@ -168,7 +196,6 @@ p2 <- ggplot(dat = NewData, mapping = aes(x=Patient.ID)) +
   
   #Add colour scheme
   scale_fill_brewer(palette = "Blues")
-
 
 ###############
 # OUTPUT PLOT #
@@ -182,4 +209,8 @@ p2
 #############
 
 #Change location and uncomment to use
-# ggsave("C:/Users/lm16564/Downloads/horboxplot.jpeg", units = "in", width=12, height = 8, dpi=1200)
+# ggsave("C:/Users/lm16564/Downloads/horboxplot.jpeg", 
+#        units = "in", 
+#        width= 12, 
+#        height = 8, 
+#        dpi=1200)
