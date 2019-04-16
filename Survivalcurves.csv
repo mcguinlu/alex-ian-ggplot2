@@ -1,0 +1,228 @@
+﻿Patient ID,Endnote ID,Reference,Age (paediatric/adult) 18,Tumour type,Tumour WHO grade (according to 2016 classification),Tumour grade (HG/LG),"Prior treatments (surgery, chemo, radio)",BRAF inhibitor,Duration of BRAF inhibitor therapy in months,Combination therapy with MEKi (Y/N),Combination therapy with MEKi (1/0),Therapy on-going (Y/N),Time to best response (months),PFS from the start of treatment,PFS (0/1),Survival time until progression or censoring,OS from the start of treatment,OS (0/1),Survival time until death or censoring
+1,21,"Abadal, K.B., 2017",Adult,glioblastoma multiforme,4,HG,"Craniotomy, resection of parietal tumor, radiosurgery, with concurrent temozolomide, 4 months later repeat radiosurgery with bevacizumab, then addition of carboplatin",vemurafenib,11,N,0,NR,NR,11,1,11,NR,0,11
+2,23,"Aguilera, 2014",Paediatric,ganglioglioma,1,LG,"subtotal resection, involved-field proton radiation, decadron, 2nd subtotal resection",vemurafenib,6,N,0,Y,NR,NR,0,6,NR,0,6
+3,26,"Amayiri, 2018",Paediatric,anaplastic pleomorphic xanthoastrocytoma,3,HG,"subtotal resection, radiotherapy, concomitant temozolomide, 10 cycles temozolomide, near total surgical resection, procarbazine/CCNU/vincristine, palliative, dabrafenib 15 months, surgical resection, dabrafenib, trametinib added",dabrafenib,30,Y,1,Y,NR,NR,0,30,NR,0,30
+4,32,"Arvanitis, 2014",Adult,glioblastoma,4,HG,"gross total resection, external beam radiation concurrent temozolomide, 2 cycles adjuvant temozolomide->recur->radiosurgery, bevacizumab",vemurafenib,2,N,0,Y,NR,NR,0,2,NR,0,2
+5,12,"Bautista, 2014",Paediatric,anaplastic ganglioglioma,3,HG,"debulking surgery, 2 cycles irinotecan/bevacizumab, then radiotherapy + temozolomide",vemurafenib,6,N,0,N,1,6,1,6,6,1,6
+6,12,"Bautista, 2014",Paediatric,anaplastic ganglioglioma,3,HG,"2 incomplete resections, 4 chemotherapy lines (BB‐SFOP, topotecan/temozolomide, cyclophosphamide/doxorubicin, irinotecan/bevacizumab)",vemurafenib,20,N,0,Y,NR,NR,0,20,NR,0,20
+7,12,"Bautista, 2014",Paediatric,anaplastic astrocytoma,3,HG,"surgery, focal radiotherapy, 3 chemotherapy lines  (topotecan/temozolomide, irinotecan/bevacizumab, non‐pegylated liposomal doxorubicin)",vemurafenib,0.633962264,N,0,Y,NR,NR,0,0.633962264,NR,0,0.633962264
+8,35,"Bavle, 2017",Paediatric,optic pathway glioma,1,LG,"4 chemotherapy lines, 2 cycles of selumetinib (20mg (25mg/m2/dose orally twice a day))",dabrafenib,9,N,0,N,NR,9,1,9,10,1,10
+9,36,"Beland, 2018",Adult,anaplastic ganglioglioma,3,HG,"craniotomy, excision of hemorrhagic tumor, adjuvant radiotherapy",dabrafenib,6,Y,1,Y,NR,NR,0,6,NR,0,6
+10,37,"Bernstein, 2017",NR,pilocytic astrocytoma,1,LG,NR,dabrafenib,1.380821918,Y,1,Y,NR,NR,0,1.380821918,NR,0,1.380821918
+12,42+43,"Brown, 2017; Brown, 2017",Adult,anaplastic pleomorphic xanthoastrocytoma,3,HG,"craniotomy, adjuvant radiotherapy, chemotherapy (6 cycles of procarbazine, CCNU (lomustine), vincristine; 6 cycles of temozolomide; 3 cycles carboplatin)",dabrafenib,8,Y,1,Y,NR,NR,0,8,NR,0,8
+13,42+43,"Brown, 2017; Brown, 2017",Adult,anaplastic pleomorphic xanthoastrocytoma,3,HG,Y,"intolerance to vemurafenib, then dabrafenib for 18 months, stopped, then dabrafenib+trametinib",4,Y,1,Y,NR,NR,0,4,NR,0,4
+14,44,"Bufalo, 2014",Paediatric,ganglioglioma,1,LG,surgery chemotherapy,vemurafenib,6,N,0,Y,3,NR,0,6,NR,0,6
+15,45,"Burger, 2017",Adult,anaplastic pleomorphic xanthoastrocytoma,3,HG,"gross total resection, radiochemotherapy, 2 cycles temozolomide, palliative radiotherapy",dabrafenib,27,N,0,Y,2,NR,0,27,NR,0,27
+16,45,"Burger, 2017",Adult,anaplastic pleomorphic xanthoastrocytoma,3,HG,"gross total resection, combined radiochemotherapy, 6 cycles temozolomide chemotherapy, 6 cycles lomustine procarbazine, then 2nd radiotherapy10x3.5 Gy",dabrafenib,8,N,0,Y,NR,NR,0,8,NR,0,8
+17,45,"Burger, 2017",Adult,glioblastoma,4,HG,"gross total resection, combined radiochemotherapy, 6 cycles temozolomide chemotherapy, 2nd radiation 10x3.5 Gy",dabrafenib,3,N,0,Y,1,NR,0,3,NR,0,3
+18,47,"Ceccon, 2018",Paediatric,epithelioid glioblastoma,4,HG,"brachytherapy 125I-seeds, external boost radiotherapy",dabrafenib,10,N,0,N,10,10,1,10,16,1,16
+19,48,"Chamberlain, 2013",Adult,pleomorphic xanthoastrocytoma,2,LG,"up-front: gross total resection, radio 54Gy; salvage: gross total resection, radio gamma-knife 18Gy, chemo temozolomide 6 cycles, procarbazine 3 cycles",vemurafenib,4,N,0,N,NR,4,1,4,6,1,6
+20,48,"Chamberlain, 2013",Adult,pleomorphic xanthoastrocytoma,2,LG,"up-front: subtotal resection, radio 60Gy, concurrent temozolomide+temozolomide 6 cycles; salvage: LINAC radiosurgery 18Gy, procarbazine 4cycles",vemurafenib,2,N,0,N,NR,2,1,2,4,1,4
+21,48,"Chamberlain, 2013",Adult,pleomorphic xanthoastrocytoma,2,LG,"up-front: gross total resection, radio 54 Gy; salvage: gross total resection, radio LINAC radiosurgery 17 Gy, temozolomide 6 cycles, procarbazine 2 cycles",vemurafenib,6,N,0,N,NR,6,1,6,10,1,10
+22,48,"Chamberlain, 2013",Adult,pleomorphic xanthoastrocytoma,2,LG,"up-front: gross total resection; salvage: subtotal resection, 54 Gy gamma-knife(18Gy), concurrent temozolomide+6 cycles temozolomide, 4 cycles procarbazine",vemurafenib,10,N,0,N,NR,10,1,10,14,1,14
+23,49,"Chamberlain, 2015",NR,ganglioglioma,1,LG,"subtotal resection, 54Gy, 6 cycles temozolomide",dabrafenib,7,N,0,NR,NR,7,1,7,12,1,12
+24,49,"Chamberlain, 2015",NR,ganglioglioma,1,LG,"gross total resection, then subtotal resection, 54 Gy, 4 cycles temozolomide",dabrafenib,7,N,0,NR,NR,7,1,7,12,1,12
+25,49,"Chamberlain, 2015",NR,ganglioglioma,1,LG,"gross total resection, 54Gy 3 cycles temozolomide",dabrafenib,7,N,0,NR,NR,7,1,7,12,1,12
+26,51,"Cores, 2018",Paediatric,pilomyxoid astrocytoma,2,LG,"2 pts:3 lines chemotherapy (vinblastine/vincristine-carboplatin, temozolomide), 2 pts radiotherapy",vemurafenib,17,N,0,NR,NR,NR,0,17,NR,0,17
+27,51,"Cores, 2018",Paediatric,pilomyxoid astrocytoma,2,LG,Y,vemurafenib,17,N,0,NR,NR,NR,0,17,NR,0,17
+28,51,"Cores, 2018",Paediatric,ganglioglioma,1,LG,Y,vemurafenib,17,N,0,NR,NR,NR,0,17,NR,0,17
+29,51,"Cores, 2018",Paediatric,ganglioglioma,1,LG,Y,vemurafenib,17,N,0,NR,NR,NR,0,17,NR,0,17
+30,56+55,"Del Bufalo, 2018; Del Bufalo, 2016",Paediatric,ganglioglioma,1,LG,"surgery biopsy, SIOP LGG 2004",vemurafenib,54,N,0,Y,NR,NR,0,54,NR,0,54
+31,56+55,"Del Bufalo, 2018; Del Bufalo, 2016",Paediatric,ganglioglioma,1,LG,surgery partial resection,vemurafenib,40,N,0,Y,NR,NR,0,40,NR,0,40
+32,56+55,"Del Bufalo, 2018; Del Bufalo, 2016",Paediatric,ganglioneurocytoma,1,LG,surgery partial resection,vemurafenib,3,N,0,Y,NR,NR,0,3,NR,0,3
+33,56+55,"Del Bufalo, 2018; Del Bufalo, 2016",Paediatric,pleomorphic xanthoastrocytoma,2,LG,surgery partial resection,vemurafenib,30,N,0,Y,NR,NR,0,30,NR,0,30
+34,56+55,"Del Bufalo, 2018; Del Bufalo, 2016",Paediatric,ganglioglioma,1,LG,surgery partial resection,vemurafenib,13,N,0,Y,NR,NR,0,13,NR,0,13
+35,56+55,"Del Bufalo, 2018; Del Bufalo, 2016",Paediatric,ganglioglioma,1,LG,surgery partial resection,vemurafenib,2,N,0,Y,NR,NR,0,2,NR,0,2
+36,56+55,"Del Bufalo, 2018; Del Bufalo, 2016",Paediatric,pilocytic astrocytoma,1,LG,surgery partial resection,vemurafenib,9,N,0,Y,NR,NR,0,9,NR,0,9
+37,58,"Drobysheva, 2017",Paediatric,pilocytic astrocytoma,1,LG,"surgical resections x3, radiotherapy",dabrafenib,12,N,0,Y,NR,NR,0,12,NR,0,12
+38,58,"Drobysheva, 2017",Paediatric,pilocytic astrocytoma,1,LG,"surgical resection, 4 different CMT regimens (carboplatin/vincristine, cisplatin/cyclophosphamide/etoposide, bevacizumab/irinotecan, temozolomide/everolimus)",dabrafenib,17,Y,1,Y,NR,NR,0,17,NR,0,17
+40,60,"Finch, 2018",Paediatric,pleomorphic xanthoastrocytoma,2,LG,"craniotomy, carboplatin, vincristine, radiotherapy",vemurafenib,29,N,0,Y,3,NR,0,29,NR,0,29
+42,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+43,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+44,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+45,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+46,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+47,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+48,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+49,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+50,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+51,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+52,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+53,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+54,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+55,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+56,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+57,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+58,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+59,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+60,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+61,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+62,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+63,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+64,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+65,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+66,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+67,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+68,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+69,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+70,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+71,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+72,65+88,"Hargrave, 2018; Kieran, 2014",Paediatric,high-grade glioma,NR,HG,NR,dabrafenib,7.7,N,0,NR,NR,NR,0,7.7,NR,0,7.7
+73,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+74,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+75,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+76,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+77,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+78,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+79,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+80,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+81,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+82,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+83,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+84,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+85,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pilocytic astrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+86,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,ganglioglioma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+87,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,ganglioglioma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+88,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,ganglioglioma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+89,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,ganglioglioma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+90,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,ganglioglioma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+91,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,ganglioglioma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+92,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,ganglioglioma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+93,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pleomorphic xanthoastrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+94,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pleomorphic xanthoastrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+95,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,pleomorphic xanthoastrocytoma,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+96,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,NR,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+97,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,NR,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+98,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,NR,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+99,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,NR,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+100,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,NR,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+101,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,NR,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+102,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,NR,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+103,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,NR,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+104,86+87+89,"Kieran, 2018; Kieran, 2016; Kieran, 2015",Paediatric,NR,NR,LG,Y,dabrafenib,25,N,0,NR,NR,35,1,35,NR,0,25
+105,66,"Harmoney, 2017",Paediatric,astrocytoma,3,HG,chemoradiation,vemurafenib then dabrafenib+trametinib,4,N,0,Y,NR,NR,0,4,NR,0,4
+107,70,"Hofer, 2016",Adult,pleomorphic xanthoastrocytoma,2,LG,"subtotal resection, radiotherapy 54 Gy, 2nd surgery, temozolomide 150 mg/m2 5/28 days 3 months after 2nd surgery for 2 cycles, 3rd resection",vemurafenib,12,N,0,Y,NR,NR,0,12,NR,0,12
+108,160,"Hottinger, 2018",Adult,pilocytic astrocytoma,1,LG,NR,dabrafenib,9,Y,1,Y,NR,NR,0,9,NR,0,9
+109,160,"Hottinger, 2018",Adult,anaplastic astrocytoma,3,HG,chemoradiotherapy temozolomide,dabrafenib,3.5,Y,1,Y,NR,NR,0,3.5,NR,0,3.5
+110,73,"Hussain, 2018",Adult,anaplastic pleomorphic xanthoastrocytoma,3,HG,"craniotomy with gross total resection, focal postoperatie radiation 60Gy",vemurafenib,10,Y,1,Y,NR,NR,0,10,NR,0,10
+111,80,"Johanns, 2018",Adult,epithelioid glioblastoma,4,HG,left temporal craniotomy,dabrafenib,11,Y,1,Y,1,NR,0,11,NR,0,11
+112,80,"Johanns, 2018",Adult,epithelioid glioblastoma,4,HG,"left frontal craniotomy with gross total resection, concurrent chemoradiation with temozolomide, then bevacizumab, then dabrafenib and trametinib",dabrafenib,3,Y,1,Y,1,NR,0,3,NR,0,3
+113,81+74,"Kaley, 2018; Hyman, 2017",Adult,pleomorphic xanthoastrocytoma,2,LG,radiotherapy=6; systemic therapies 0=3 1=3 >=3=1,vemurafenib,5.7,N,0,NR,NR,5.7,1,5.7,NR,0,5.7
+114,81+74,"Kaley, 2018; Hyman, 2017",Adult,pleomorphic xanthoastrocytoma,2,LG,radiotherapy=6; systemic therapies 0=3 1=3 >=3=1,vemurafenib,5.7,N,0,NR,NR,5.7,1,5.7,NR,0,5.7
+115,81+74,"Kaley, 2018; Hyman, 2017",Adult,pleomorphic xanthoastrocytoma,2,LG,radiotherapy=6; systemic therapies 0=3 1=3 >=3=1,vemurafenib,5.7,N,0,NR,NR,5.7,1,5.7,NR,0,5.7
+116,81+74,"Kaley, 2018; Hyman, 2017",Adult,pleomorphic xanthoastrocytoma,2,LG,radiotherapy=6; systemic therapies 0=3 1=3 >=3=1,vemurafenib,5.7,N,0,NR,NR,5.7,1,5.7,NR,0,5.7
+117,81+74,"Kaley, 2018; Hyman, 2017",Adult,pleomorphic xanthoastrocytoma,2,LG,radiotherapy=6; systemic therapies 0=3 1=3 >=3=1,vemurafenib,5.7,N,0,NR,NR,5.7,1,5.7,NR,0,5.7
+118,81+74,"Kaley, 2018; Hyman, 2017",Adult,pleomorphic xanthoastrocytoma,2,LG,radiotherapy=6; systemic therapies 0=3 1=3 >=3=1,vemurafenib,5.7,N,0,NR,NR,5.7,1,5.7,NR,0,5.7
+119,81+74,"Kaley, 2018; Hyman, 2017",Adult,pleomorphic xanthoastrocytoma,2,LG,radiotherapy=6; systemic therapies 0=3 1=3 >=3=1,vemurafenib,5.7,N,0,NR,NR,5.7,1,5.7,NR,0,5.7
+120,81+74,"Kaley, 2018; Hyman, 2017",Adult,anaplastic astrocytoma,3,HG,radiotherapy=11; systemic therapies 0=1 1=5 2=2  >=3=3,vemurafenib,5.3,N,0,NR,NR,5.3,1,5.3,11.9,1,11.9
+121,81+74,"Kaley, 2018; Hyman, 2017",Adult,anaplastic astrocytoma,3,HG,radiotherapy=11; systemic therapies 0=1 1=5 2=2  >=3=3,vemurafenib,5.3,N,0,NR,NR,5.3,1,5.3,11.9,1,11.9
+122,81+74,"Kaley, 2018; Hyman, 2017",Adult,anaplastic astrocytoma,3,HG,radiotherapy=11; systemic therapies 0=1 1=5 2=2  >=3=3,vemurafenib,5.3,N,0,NR,NR,5.3,1,5.3,11.9,1,11.9
+123,81+74,"Kaley, 2018; Hyman, 2017",Adult,anaplastic astrocytoma,3,HG,radiotherapy=11; systemic therapies 0=1 1=5 2=2  >=3=3,vemurafenib,5.3,N,0,NR,NR,5.3,1,5.3,11.9,1,11.9
+124,81+74,"Kaley, 2018; Hyman, 2017",Adult,anaplastic astrocytoma,3,HG,radiotherapy=11; systemic therapies 0=1 1=5 2=2  >=3=3,vemurafenib,5.3,N,0,NR,NR,5.3,1,5.3,11.9,1,11.9
+125,81+74,"Kaley, 2018; Hyman, 2017",Adult,glioblastoma,4,HG,radiotherapy=11; systemic therapies 0=1 1=5 2=2  >=3=3,vemurafenib,5.3,N,0,NR,NR,5.3,1,5.3,11.9,1,11.9
+126,81+74,"Kaley, 2018; Hyman, 2017",Adult,glioblastoma,4,HG,radiotherapy=11; systemic therapies 0=1 1=5 2=2  >=3=3,vemurafenib,5.3,N,0,NR,NR,5.3,1,5.3,11.9,1,11.9
+127,81+74,"Kaley, 2018; Hyman, 2017",Adult,glioblastoma,4,HG,radiotherapy=11; systemic therapies 0=1 1=5 2=2  >=3=3,vemurafenib,5.3,N,0,NR,NR,5.3,1,5.3,11.9,1,11.9
+128,81+74,"Kaley, 2018; Hyman, 2017",Adult,glioblastoma,4,HG,radiotherapy=11; systemic therapies 0=1 1=5 2=2  >=3=3,vemurafenib,5.3,N,0,NR,NR,5.3,1,5.3,11.9,1,11.9
+129,81+74,"Kaley, 2018; Hyman, 2017",Adult,glioblastoma,4,HG,radiotherapy=11; systemic therapies 0=1 1=5 2=2  >=3=3,vemurafenib,5.3,N,0,NR,NR,5.3,1,5.3,11.9,1,11.9
+130,81+74,"Kaley, 2018; Hyman, 2017",Adult,glioblastoma,4,HG,radiotherapy=11; systemic therapies 0=1 1=5 2=2  >=3=3,vemurafenib,5.3,N,0,NR,NR,5.3,1,5.3,11.9,1,11.9
+131,81+74,"Kaley, 2018; Hyman, 2017",Adult,pilocytic astrocytoma,1,LG,radiotherapy=6; systemic therapies 0=2 1=2 2=1 >=3=1,vemurafenib,3.7,N,0,NR,NR,3.7,1,3.7,28.2,1,28.2
+132,81+74,"Kaley, 2018; Hyman, 2017",Adult,pilocytic astrocytoma,1,LG,radiotherapy=6; systemic therapies 0=2 1=2 2=1 >=3=1,vemurafenib,3.7,N,0,NR,NR,3.7,1,3.7,28.2,1,28.2
+133,81+74,"Kaley, 2018; Hyman, 2017",Adult,anaplastic ganglioglioma,3,HG,radiotherapy=6; systemic therapies 0=2 1=2 2=1 >=3=1,vemurafenib,3.7,N,0,NR,NR,3.7,1,3.7,28.2,1,28.2
+134,81+74,"Kaley, 2018; Hyman, 2017",Adult,anaplastic ganglioglioma,3,HG,radiotherapy=6; systemic therapies 0=2 1=2 2=1 >=3=1,vemurafenib,3.7,N,0,NR,NR,3.7,1,3.7,28.2,1,28.2
+135,81+74,"Kaley, 2018; Hyman, 2017",Adult,anaplastic ganglioglioma,3,HG,radiotherapy=6; systemic therapies 0=2 1=2 2=1 >=3=1,vemurafenib,3.7,N,0,NR,NR,3.7,1,3.7,28.2,1,28.2
+136,81+74,"Kaley, 2018; Hyman, 2017",Adult,high-grade glioma,NR,HG,radiotherapy=6; systemic therapies 0=2 1=2 2=1 >=3=1,vemurafenib,3.7,N,0,NR,NR,3.7,1,3.7,28.2,1,28.2
+137,82,"Kapelushnik, 2013",Paediatric,pleomorphic xanthoastrocytoma,2,LG,3 neurosurgeries with radiotherapy chemotherapy,vemurafenib,9,N,0,Y,NR,NR,0,9,NR,0,9
+138,83,"Karajannis, 2013",Paediatric,ganglioglioma,1,LG,"surgery, carboplatin/vincristine",sorafenib,7,N,0,Y,NR,2.8,1,2.8,NR,0,7
+139,83,"Karajannis, 2013",Paediatric,pilocytic astrocytoma,1,LG,"carboplatin/vincristine, bevacizumab",sorafenib,3,N,0,Y,NR,2.8,1,2.8,NR,0,3
+140,83,"Karajannis, 2013",Paediatric,pilocytic astrocytoma,1,LG,"surgery, carboplatin/vincristine, thioguanine/procarbazine/CCNU (lomustine)/vincristine",sorafenib,2,N,0,Y,NR,2.8,1,2.8,NR,0,2
+141,83,"Karajannis, 2013",Paediatric,pilomyxoid astrocytoma,2,LG,"surgery, carboplatin/vincristine",sorafenib,9,N,0,Y,NR,2.8,1,2.8,NR,0,9
+142,83,"Karajannis, 2013",Paediatric,fibrillary astrocytoma,2,LG,"surgery, carboplatin/vincristine, vinblastine/temozolomide, thioguanine/procarbazine/CCNU (lomustine)/vincristine, bevacizumab/irinotecan",sorafenib,3,N,0,Y,NR,2.8,1,2.8,NR,0,3
+143,83,"Karajannis, 2013",Paediatric,pilocytic astrocytoma,1,LG,"surgery, carboplatin/vincristine, temozolomide, vinblastine, bevacizumab",sorafenib,2,N,0,Y,NR,2.8,1,2.8,NR,0,2
+144,83,"Karajannis, 2013",Paediatric,pilocytic astrocytoma,1,LG,"surgery, carboplatin/vincristine",sorafenib,2,N,0,Y,NR,2.8,1,2.8,NR,0,2
+145,83,"Karajannis, 2013",Paediatric,pilocytic astrocytoma,1,LG,"surgery, carboplatin/vincristine, actinomycin/vincristine, surgery, vinblastine, actinomycin/vincristine",sorafenib,3,N,0,Y,NR,2.8,1,2.8,NR,0,3
+146,83,"Karajannis, 2013",Paediatric,pilomyxoid astrocytoma,2,LG,"surgery, carboplatin/vincristine, vinblastine",sorafenib,2,N,0,Y,NR,2.8,1,2.8,NR,0,2
+147,83,"Karajannis, 2013",Paediatric,glioma,NR,LG,"carboplatin/vincristine, temozolomide, thioguanine/procarbazine/CCNU (lomustine)/vincristine, surgery",sorafenib,3,N,0,Y,NR,2.8,1,2.8,NR,0,3
+148,83,"Karajannis, 2013",Paediatric,pilocytic astrocytoma,1,LG,"carboplatin/vincristine, thioguanine/procarbazine/CCNU (lomustine)/vincristine, vinblastine",sorafenib,3,N,0,Y,NR,2.8,1,2.8,NR,0,3
+149,84,"Khatua, 2015",Paediatric,pleomorphic xanthoastrocytoma,2,LG, radiotherapy and three surgical interventions over two years,vemurafenib,13,N,0,Y,2,NR,0,13,NR,0,13
+150,84,"Khatua, 2015",Paediatric,pilocytic astrocytoma,1,LG,"carboplatin, vincristine, vinblastine, celexocib",NR,4,N,0,Y,NR,NR,0,4,NR,0,4
+151,163,"Kleinschmidt-DeMasters, 2015",Adult,epithelioid glioblastoma,4,HG,"two resections, radiation",vemurafenib,23,N,0,Y,NR,NR,0,23,NR,0,23
+152,94,"Kondyli, 2017",Paediatric,ganglioglioma,1,LG,Five patients received at least one previous line of chemotherapy (range 1-4) and for one patient it was a first line treatment,dabrafenib,13.1,N,0,NR,NR,NR,0,13.1,NR,0,13.1
+153,94,"Kondyli, 2017",Paediatric,ganglioglioma,1,LG,NR,dabrafenib,13.1,N,0,NR,NR,NR,0,13.1,NR,0,13.1
+154,94,"Kondyli, 2017",Paediatric,ganglioglioma,1,LG,NR,dabrafenib,13.1,N,0,NR,NR,NR,0,13.1,NR,0,13.1
+155,94,"Kondyli, 2017",Paediatric,ganglioglioma,1,LG,NR,dabrafenib,13.1,N,0,NR,NR,NR,0,13.1,NR,0,13.1
+156,94,"Kondyli, 2017",Paediatric,ganglioglioma,1,LG,NR,dabrafenib,13.1,N,0,NR,NR,NR,0,13.1,NR,0,13.1
+157,94,"Kondyli, 2017",Paediatric,ganglioglioma,1,LG,NR,dabrafenib,13.1,N,0,N,10,NR,0,13.1,NR,0,13.1
+159,99,"Leaver, 2016",Adult,anaplastic pleomorphic xanthoastrocytoma,3,HG,"gross total resection, 2nd gross total resection",vemurafenib,2,Y,1,N,NR,2,1,2,10,1,10
+160,99,"Leaver, 2016",Adult,epithelioid glioblastoma,4,HG,resection,vemurafenib,0.230136986,N,0,N,NR,0.328767123,1,0.328767123,0.328767123,1,0.328767123
+161,100,"Lee, 2016",Adult,anaplastic pleomorphic xanthoastrocytoma,3,HG,"surgery, radiation temozolomide",vemurafenib,2.761643836,N,0,Y,NR,NR,0,2.761643836,NR,0,2.761643836
+162,102,"Lucas, 2015",Paediatric,anaplastic ganglioglioma,3,HG,"left temporoparietal craniotomy, adjuvant temozolomide, irinotecan, vevacizumab, radiotherapy 36Gy of 24 fractions",vemurafenib,8,N,0,N,NR,8,1,8,8,1,8
+163,103,"Lukas, 2018",Adult,pleomorphic xanthoastrocytoma,2,LG,"surgery, craniotomy 4 times, radiotherapy 56 Gy, nine cycles of temozolomide, bevacizumab",vemurafenib,8.515068493,N,0,N,NR,8.515068493,1,8.515068493,8.515068493,1,8.515068493
+164,104,"Marks, 2018",Paediatric,anaplastic ganglioglioma,3,HG,"resection, radiation 30 fractions total dose of 5400 cGy (centigray), concurrent temozolomide, maintenance chemotherapy (5-day pulses of temozolomide every 28 days for 6 cycles)","vemurafenib 1 week, then dabrafenib+trametinib",6,Y,1,Y,NR,NR,0,6,NR,0,6
+165,105,"Martinez, 2015",Paediatric,anaplastic ganglioglioma,3,HG,"chemotherapy (vincristine, cisplatin, etoposide, cyclophosphamide) 5 cycles, then irinotecan bevacizumab 13 cycles",dabrafenib,6,N,0,Y,NR,NR,0,6,NR,0,6
+166,108+7,"Melguizo, 2016; Meletath, 2016",Adult,glioblastoma,4,HG,"subtotal resection, craniotomy, resection of mass and biopsy, concurrent radiation and chemotherapy (temozolomide with conformal radiotherapy (5940 cGy), followed by monthly temozolomide)",dabrafenib,24,N,0,Y,NR,NR,0,24,NR,0,24
+167,109,"Migliorini, 2017",Adult,anaplastic pleomorphic xanthoastrocytoma,3,HG,"complete excision, tumor bed irradiation, then recur, then partial resection, (grade II PXA), vemurafenib and becavizumab for 12 months (partial response), 3rd surgery, anaplastic grade III PXA, unsuccessful treatment of bevacizumab lomustine, then tumor treating fields, dabrafenib and trametinib",dabrafenib,11,Y,1,Y,NR,NR,0,11,NR,0,11
+168,111,"Miller, 2016",Paediatric,pilocytic astrocytoma,1,LG,Y,vemurafenib,14.95890411,N,0,Y,NR,NR,0,14.95890411,NR,0,14.95890411
+169,111,"Miller, 2016",Paediatric,pilocytic astrocytoma,1,LG,Y,NR,14.95890411,N,0,Y,NR,NR,0,14.95890411,NR,0,14.95890411
+170,111,"Miller, 2016",Paediatric,pilomyxoid astrocytoma,2,LG,Y,NR,14.95890411,N,0,Y,NR,NR,0,14.95890411,NR,0,14.95890411
+171,111,"Miller, 2016",Paediatric,astrocytoma,2,LG,Y,NR,14.95890411,Y,1,Y,NR,NR,0,14.95890411,NR,0,14.95890411
+172,115,"Naskhletashvili, 2016",Adult,pleomorphic xanthoastrocytoma,2,LG,"operation, radiotherapy",vemurafenib,18,N,0,Y,NR,NR,0,18,NR,0,18
+174,116,"New, 2016",Adult,glioblastoma,4,HG,"surgery, 6000 cGy of radiotherapy alone, and 6 cycles of adjuvant temozolomide, recur, resection, veliparib plus temozolomide with recurrence after 2 cycles. Another resection occurred and he went on to receive cis-retinoic acid and lomustine, two cycles. Progression was again noted. Another resection occurred in February, 2013. vemurafenib for 18 cycles with everolimus for 4 cycles, then dabrafenib and pazopanib, 6th craniotomy, then radiotherapy and bevacizumab",vemurafenib,15,N,0,N,NR,15,1,15,NR,0,15
+175,14,"Nicolaides, 2017",Paediatric,pilocytic astrocytoma,1,LG,Y,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+176,14,"Nicolaides, 2017",Paediatric,pilocytic astrocytoma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+177,14,"Nicolaides, 2017",Paediatric,pilocytic astrocytoma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+178,14,"Nicolaides, 2017",Paediatric,pilocytic astrocytoma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+179,14,"Nicolaides, 2017",Paediatric,pilocytic astrocytoma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+180,14,"Nicolaides, 2017",Paediatric,pilocytic astrocytoma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+181,14,"Nicolaides, 2017",Paediatric,pilocytic astrocytoma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+182,14,"Nicolaides, 2017",Paediatric,pilocytic astrocytoma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+183,14,"Nicolaides, 2017",Paediatric,pilocytic astrocytoma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+184,14,"Nicolaides, 2017",Paediatric,pilocytic astrocytoma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+185,14,"Nicolaides, 2017",Paediatric,ganglioglioma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+186,14,"Nicolaides, 2017",Paediatric,ganglioglioma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+187,14,"Nicolaides, 2017",Paediatric,ganglioglioma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+188,14,"Nicolaides, 2017",Paediatric,ganglioglioma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+189,14,"Nicolaides, 2017",Paediatric,ganglioglioma,1,LG,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+190,14,"Nicolaides, 2017",Paediatric,NR,NR,NR,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+191,14,"Nicolaides, 2017",Paediatric,NR,NR,NR,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+192,14,"Nicolaides, 2017",Paediatric,NR,NR,NR,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+193,14,"Nicolaides, 2017",Paediatric,NR,NR,NR,NR,vemurafenib,16.5,N,0,NR,NR,NR,0,16.5,NR,0,16.5
+194,117,"O'Hare, 2018",Paediatric,high-grade glioma,NR,HG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+195,117,"O'Hare, 2018",Paediatric,high-grade glioma,NR,HG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+196,117,"O'Hare, 2018",Paediatric,high-grade glioma,NR,HG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+197,117,"O'Hare, 2018",Paediatric,high-grade glioma,NR,HG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+198,117,"O'Hare, 2018",Paediatric,high-grade glioma,NR,HG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+199,117,"O'Hare, 2018",Paediatric,low-grade glioma,NR,LG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+200,117,"O'Hare, 2018",Paediatric,low-grade glioma,NR,LG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+201,117,"O'Hare, 2018",Paediatric,low-grade glioma,NR,LG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+202,117,"O'Hare, 2018",Paediatric,low-grade glioma,NR,LG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+203,117,"O'Hare, 2018",Paediatric,low-grade glioma,NR,LG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+204,117,"O'Hare, 2018",Paediatric,low-grade glioma,NR,LG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+205,117,"O'Hare, 2018",Paediatric,low-grade glioma,NR,LG,NR,NR,11.85205479,N,0,NR,NR,NR,0,11.85205479,NR,0,11.85205479
+208,119,"Pavelka, 2016",Paediatric,desmoplastic infantile astrocytoma,1,LG,"vincristine carboplatin, vinblastine in combination with vemurafenib",vemurafenib,6,N,0,Y,NR,NR,0,6,NR,0,6
+210,128,"Robinson, 2014",Paediatric,glioblastoma multiforme,4,HG,"resections, focal radiation 59.4 Gy, vorinostat (230 mg/m2/dose 5 days/week), then bevacizumab (10mg/kg/dose every 2 weeks) topotecan (0.8 mg/m2/dose days 1-10) and vorinostat (180mg/m2/dose days 1-14)",vemurafenib,7,N,0,Y,4,NR,0,7,NR,0,7
+211,132+67,"Rush, 2013; Hemenway, 2012",Paediatric,ganglioglioma,1,LG,"partial resection, proton radiotherapy",vemurafenib,2.761643836,N,0,Y,NR,NR,0,2.761643836,NR,0,2.761643836
+215,133,"Schreck, 2018",Paediatric,anaplastic pleomorphic xanthoastrocytoma,3,HG,"3 surgeries, radiation concurrent temozolomide, 6 cycles adjuvant temozolomide, 1 cycle salvage BCNU, another resection began dabrafenib and trametinib with Karnofsky performance status of 50 and ECOG performance status of 3, then tumor progression, therapy discontinued",dabrafenib,16,Y,1,N,NR,16,1,16,NR,0,16
+216,133,"Schreck, 2018",Adult,NR,NR,NR,"gross total resection, radiation with concurrent temozolomide, adjuvant temozolomide for 12 cycles, surgery, dabrafenib and trametinib KPS=70 ECOG PS=2",dabrafenib,16,Y,1,Y,NR,NR,0,16,NR,0,16
+217,19,"Sen, 2016",NR,glioblastoma,4,HG,Y,vemurafenib,1.446575342,N,0,Y,NR,1.446575342,1,1.446575342,NR,0,1.446575342
+218,19,"Sen, 2016",NR,glioblastoma,4,HG,Y,vemurafenib,14.95890411,N,0,Y,NR,14.95890411,1,14.95890411,NR,0,14.95890411
+219,135,"Shi, 2018",Adult,anaplastic oligoastrocytoma,3,HG,"chemoradiotherapy concurrent with temozolomide, 3 cycles of bevacizumab, vemurafenib and everolimus, then trastuzumab",vemurafenib,12,N,0,N,NR,12,1,12,12,1,12
+220,157,"Shih, 2014",Adult,ganglioglioma,1,LG,"craniotomy, gross total resection, radiotherapy with temozolomide, then irinotecan and bevacizumab",dabrafenib,3,N,0,Y,NR,NR,0,3,NR,0,3
+221,137,"Skrypek, 2014",Paediatric,pilomyxoid astrocytoma,2,LG,"vincristine carboplatin for 6 months, then bevacizumab and irinotecan 20 months, then temozolomide and temsirolimus 6 months, surgical debulking",vemurafenib,15,N,0,Y,NR,NR,0,15,NR,0,15
+223,161+16,"Subbiah, 2018; Subbiah, 2015",Paediatric,pleomorphic xanthoastrocytoma,2,LG,NR,vemurafenib,20.25205479,N,0,NR,NR,NR,0,20.25205479,NR,0,20.25205479
+224,161+16,"Subbiah, 2018; Subbiah, 2015",NR,optic nerve glioma,1,LG,NR,vemurafenib,7.923287671,N,0,NR,NR,NR,0,7.923287671,NR,0,7.923287671
+227,142,"Sumerauer, 2018",Paediatric,pilocytic astrocytoma,1,LG,NR,dabrafenib,11,N,0,NR,NR,NR,0,11,NR,0,11
+228,142,"Sumerauer, 2018",Paediatric,pleomorphic xanthoastrocytoma,2,LG,NR,dabrafenib,11,N,0,NR,NR,NR,0,11,NR,0,11
+229,142,"Sumerauer, 2018",Paediatric,ganglioglioma,1,LG,NR,dabrafenib,11,N,0,NR,NR,NR,0,11,NR,0,11
+230,142,"Sumerauer, 2018",Paediatric,NR,NR,NR,NR,dabrafenib,11,N,0,NR,NR,NR,0,11,NR,0,11
+236,18,"Thomas, 2017",Paediatric,anaplastic pleomorphic xanthoastrocytoma,3,HG,"subtotal resection, radiation therapy 5940 cGy in 30 fractions, temozolomide 150-200mg/m2 for 5 days in 28-day cycles for six cycles , palliative radiotherapy (palliative RT from T5-T10, 3000 cGy in 10 fractions)",dabrafenib,21,Y,1,N,2,21,1,21,23,1,23
+237,146,"Toledano, 2016",Paediatric,pleomorphic xanthoastrocytoma,2,LG,NR,vemurafenib,12,N,0,Y,NR,NR,0,12,NR,0,12
+238,147,"Toll, 2018",Paediatric,glioma,NR,HG,NR,dabrafenib,12,Y,1,Y,NR,NR,0,12,NR,0,12
+239,147,"Toll, 2018",Paediatric,astroblastoma,not graded,not graded,NR,dabrafenib,8,Y,1,Y,NR,NR,0,8,NR,0,8
+240,147,"Toll, 2018",Paediatric,anaplastic ganglioglioma,3,HG,NR,dabrafenib,12,Y,1,Y,3,NR,0,12,NR,0,12
+241,148,"Touat, 2018",Adult,anaplastic ganglioglioma,3,HG,"surgical resection and adjuvant radiation therapy, vemurafenib discontinued and then 2nd gross total resection",vemurafenib,16,Y,1,Y,NR,NR,0,16,NR,0,16
+242,164,"Upadhyaya, 2018",Paediatric,pilocytic astrocytoma,1,LG,"resection, vincristine/carboplatin, temozolomide",vemurafenib,6,N,0,Y,NR,NR,0,6,NR,0,6
+243,164,"Upadhyaya, 2018",Paediatric,pilocytic astrocytoma,1,LG,"vincristine/carboplatin, temozolomide, vinblastine, then thioguanine, procarbazine, CCNU, vincristine, radiotherapy",vemurafenib,6,N,0,Y,NR,NR,0,6,NR,0,6
+244,150,"Usubalieva, 2015",Adult,anaplastic pleomorphic xanthoastrocytoma,3,HG,"near-total resection, external beam radiotherapy, 2nd resection, fractionated stereotactic radiotherapy",dabrafenib,0.805479452,N,0,N,NR,NR,0,0.805479452,0.805479452,1,0.805479452
+245,165,"van Tilburg, 2018",Paediatric,desmoplastic infantile astrocytoma,1,LG,"surgical management, vincristine, carboplatin (SIOP-LGG-2004 registry)",vemurafenib,12,N,0,Y,3,NR,0,12,NR,0,12
+246,166,"Watanabe, 2016",Paediatric,anaplastic astrocytoma,3,HG,"resection, carboplatin 8mg/kg, etoposide 5mg/kg, temozolomide 150-200mg/m2 for 5 days per course",vemurafenib,6,N,0,Y,NR,NR,0,6,NR,0,6
+,,,,,,,,,,,,,,,,,,,
